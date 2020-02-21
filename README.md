@@ -7,7 +7,7 @@
 ## paper
 - 尚未发表
 
-## 兴趣爱好
+## insterest
 - physics
 - astronomy
 - sport
