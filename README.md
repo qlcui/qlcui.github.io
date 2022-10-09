@@ -5,7 +5,8 @@
 - 2019年就读于中国科学院大学国家天文台，研究方向为恒星早期的形成和演化
 
 ## paper
-- 尚未发表
+- A multi-wavelength observations on the infrared dust bubble N75
+
 
 ## insterest
 - physics
